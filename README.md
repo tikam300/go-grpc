@@ -1,4 +1,4 @@
-# Go gRPC Example
+# Go gRPC
 
 This is a simple **gRPC chat example in Go** that demonstrates a client-server communication using Protocol Buffers.
 
